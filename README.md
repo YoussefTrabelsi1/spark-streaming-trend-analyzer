@@ -2,7 +2,6 @@
 
 [![PySpark](https://img.shields.io/badge/Apache%20Spark-Streaming-brightgreen)](https://spark.apache.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-Streaming-blue)](https://kafka.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ---
 
