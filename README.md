@@ -75,6 +75,3 @@ A real-time data streaming system using PySpark Structured Streaming and Kafka. 
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
