@@ -9,6 +9,7 @@
 
 A real-time data streaming system using PySpark Structured Streaming and Kafka. Processes live data to detect trends via windowed aggregations, demonstrating scalable and distributed data processing.
 
+The project is still in progress.
 ---
 
 ## ⚙️ Tech Stack
